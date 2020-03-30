@@ -2,7 +2,7 @@
 author: YOUTZHS
 title: solaris
 image_url: /images/solaris.jpg
-caption: 'Solaris is a non-free Unix operating system originally developed by Sun Microsystems. Solaris was developed as proprietary software. In June 2005, Sun Microsystems released most of the codebase under the CDDL license, and founded the OpenSolaris open-source project.'
+caption: 'Το Solaris, είναι λειτουργικό σύστημα βασισμένο στο UNIX και σχεδιασμένο από την εταιρία Sun Microsystems. Η άδεια χρήσης του Solaris είναι κλειστή, αλλά πρόσφατα μεγάλα κομμάτια του συστήματος έχουν αλλάξει άδεια χρήσης σε ανοιχτού κώδικα (CCDL) διαμορφώνοντας το OpenSolaris. To Solaris, υποστηρίζεται στις εξής αρχιτεκτονικές: SPARC, x86 και x86-64. Το γραφικό περιβάλλον του συστήματος είναι το GNOME (Solaris 10), ενώ είναι διαθέσιμο και το CDE.'
 license_url: 'https://www.flickr.com/photos/pretz/39724251'
 license_text: Solaris Wikipedia
 categories:
@@ -10,4 +10,5 @@ categories:
 tags:
   - Unix
   - Oracle
+  - Operating System
 ---

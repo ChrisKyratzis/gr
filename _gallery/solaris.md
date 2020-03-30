@@ -1,5 +1,5 @@
 ---
-author: YOUTZHS
+author: ChrisKyratzis
 title: solaris
 image_url: /images/solaris.jpg
 caption: 'Το Solaris, είναι λειτουργικό σύστημα βασισμένο στο UNIX και σχεδιασμένο από την εταιρία Sun Microsystems. Η άδεια χρήσης του Solaris είναι κλειστή, αλλά πρόσφατα μεγάλα κομμάτια του συστήματος έχουν αλλάξει άδεια χρήσης σε ανοιχτού κώδικα (CCDL) διαμορφώνοντας το OpenSolaris. To Solaris, υποστηρίζεται στις εξής αρχιτεκτονικές: SPARC, x86 και x86-64. Το γραφικό περιβάλλον του συστήματος είναι το GNOME (Solaris 10), ενώ είναι διαθέσιμο και το CDE.'

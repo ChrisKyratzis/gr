@@ -6,7 +6,8 @@ caption: 'Είναι γενικά πιστωτής ως εφευρέτης τη�
 license_url: 'https://www.wallpaperflare.com/computer-command-screengrab-programming-programming-language-wallpaper-pwmqx'
 license_text: HD wallpaper computer command screengrab, programming, programming language
 categories:
-  - case study 
+  - programming 
 tags:
   - programming language
+  - coding
 ---

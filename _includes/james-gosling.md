@@ -16,6 +16,6 @@ gallery:
     caption: "Είναι γενικά πιστωτής ως εφευρέτης της γλώσσας προγραμματισμού Java το 1991."
 ---
 
-{% include bio-Gosling.md %}
+{% include bio-gosling.md %}
 
 {% include slides.html caption="Εικόνες για την βιογραφία του James Gosling" %}

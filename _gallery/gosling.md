@@ -10,7 +10,7 @@ license_url: 'https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedi
 license_text: Ficheiro:James Gosling 2008.jpg – Wikipédia, a enciclopédia livre
 
 categories:
-  - case study
+  - biography
 tags:
   - Gosling
 ---

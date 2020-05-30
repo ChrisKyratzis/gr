@@ -6,7 +6,7 @@ caption: 'Λίγα χρόνια μετά την κυκλοφορία του Andr
 license_url: 'https://www.flickr.com/photos/closari/3118840425'
 license_text: Flickr
 categories:
-  - softaware
+  - software
   - case study
 tags:
   - android
